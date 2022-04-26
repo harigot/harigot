@@ -1,5 +1,4 @@
 ### Hi! I am Bruno B. Mello.
-- 😄 About me: I am a dev passionate about technology and science, also really like dad jokes. The keywords that define the foundation of my personality are: calm, friendly, and random.<br> Now I am open to work and looking forward to getting more experience.
 
 <div aling="center">
   <a href="https://github.com/harigot">
