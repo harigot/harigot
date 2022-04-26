@@ -24,7 +24,7 @@
 </div>
 
 ##
-- 📫 you can contact me through one of these, don't be shy and send a nice message!
+- 📫 You can contact me through one of these, don't be shy and send me a nice message!
 <div>
   <a href="https://www.linkedin.com/in/bruno-b-mello-65b5b8199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ofbrunobm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
