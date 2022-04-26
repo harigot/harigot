@@ -3,8 +3,8 @@
 
 <div aling="center">
   <a href="https://github.com/harigot">
-  <img width="397" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
+  <img width="387" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img width="470" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
 </div>
 
 <div aling="left">
