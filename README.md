@@ -1,10 +1,10 @@
 ### Hi! I am Bruno B. Mello.
 - 😄 About me: I am a dev passionate about technology and science, also really like dad jokes. The keywords that define the foundation of my personality are: calm, friendly, and random.<br> Now I am open to work and looking forward to getting more experience.
 
-<div style="display: inline_block">
+<div aling="center">
   <a href="https://github.com/harigot">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" height="360em" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img height="180em" height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div aling="left">
