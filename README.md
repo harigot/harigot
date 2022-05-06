@@ -2,8 +2,8 @@
 
 <div aling="center">
   <a href="https://github.com/harigot">
-  <img width="374" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
 </div>
 
 <div aling="left">
@@ -26,7 +26,7 @@
 ##
 - 📫 You can contact me through one of these, don't be shy and send me a nice message!
 <div>
-  <a href="linkedin.com/in/bruno-bastos-mello" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bruno-bastos-mello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:ofbrunobm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/brunob.mello/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
