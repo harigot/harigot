@@ -5,8 +5,12 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harigot&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
 </div>
-
-
+  
+<div aling="left">
+  <a href="https://github.com/harigot/welcome-to-the-django">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
+  </a>   
+</div>
 
 ##
 - 🔭 Here are the technologies with which I have some experience so far.
