@@ -7,7 +7,7 @@
 </div>
 
 <div aling="left">
-  <a href="https://github.com/harigot/welcome-to-the-django">
+  <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
   </a>   
 </div>
