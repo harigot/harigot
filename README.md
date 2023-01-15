@@ -11,7 +11,7 @@
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
   </a>
   <a href="https://github.com/harigot/react-movie-app-project">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=react-movie-app-project&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
   </a>
 </div>
 
