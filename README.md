@@ -6,10 +6,13 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harigot&layout=compact&langs_count=6&theme=monokai"/>
 </div>
   
-<div aling="left">
+<div aling="center">
   <a href="https://github.com/harigot/welcome-to-the-django">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
-  </a>   
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
+  </a>
+  <a href="https://github.com/harigot/react-movie-app-project">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=harigot&repo=welcome-to-the-django&title_color=f40060&text_color=edf0e8&icon_color=de8f01&bg_color=262922" />
+  </a>
 </div>
 
 ##
